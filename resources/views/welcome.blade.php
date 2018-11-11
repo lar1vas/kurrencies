@@ -83,6 +83,10 @@
                 <div class="title m-b-md">
                     Kurrencies Change
                 </div>
+
+                <div class="links">
+                    CAMBIOS UNIVERSALES
+                </div>
             </div>
         </div>
     </body>
