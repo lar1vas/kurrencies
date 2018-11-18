@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    ~ Kurrencies Change ~
+                    Kurrencies<br>Change
                 </div>
 
                 <div class="links">
