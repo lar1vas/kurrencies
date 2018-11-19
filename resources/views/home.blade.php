@@ -15,6 +15,10 @@
                     @endif
 
                     Has iniciado sesión!
+
+                    @foreach ($roles as $rol)
+                        <p>{{ $rol }}</p>
+                    @endforeach
                 </div>
             </div>
         </div>
